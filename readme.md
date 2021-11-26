@@ -10,7 +10,7 @@
 ## Web Application Instructions
 1. `git clone` this repository
 2. `cd bokeh`
-3. `bokeh --serve show owid`
+3. `bokeh serve --show owid`
 
 A webpage should appear after step 3. If not, please contact me at @Seancze on Telegram.
 
