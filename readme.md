@@ -13,7 +13,7 @@
 3. `cd bokeh`
 4. `bokeh serve --show owid`
 
-A webpage should appear after step 3. If not, please contact me at @Seancze on Telegram.
+A webpage should appear after all steps. If not, please contact me at @Seancze on Telegram.
 
 ## Tasks
 1. Task 1 - Predicting `new_deaths_smoothed_per_million`
